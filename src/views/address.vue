@@ -1,15 +1,11 @@
 <template>
-  <div id="app">
-    <router-view/>
+  <div>
+    this is address.
   </div>
 </template>
 
 <script>
 export default {
-  
+  name: 'addr'
 }
 </script>
-
-<style lang="scss">
-
-</style>
